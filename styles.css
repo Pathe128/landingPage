@@ -63,7 +63,7 @@ li a {
     color: #E5E7EB;
 }
 
-button {
+.clicking {
     color: white;
     font-size: 16px;
     border: none;
@@ -162,6 +162,7 @@ button {
     border-color: white;
     padding: 5px 15px;
     border-radius: 5px;
+    background-color: #3882F6;
 }
 
 footer {
